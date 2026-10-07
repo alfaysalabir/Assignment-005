@@ -108,6 +108,10 @@ npm run build
 npm start
 ```
 
+## 🔴 Go Live:
+
+https://6aa6e1638dda5763c7139d49--lucent-marzipan-633655.netlify.app/
+
 ---
 
 <div align="center">
