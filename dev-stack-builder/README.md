@@ -92,6 +92,22 @@ passes a **function** as a prop, and the child calls it. I used this for
 the "Add to Stack" button — clicking it calls a function passed down from
 the parent, which then updates the stack.
 
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## 📦 Build & Deploy
+
+```bash
+npm run build
+npm start
+```
+
 ---
 
 <div align="center">
